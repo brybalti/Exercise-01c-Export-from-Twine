@@ -1,0 +1,76 @@
+{
+    "passages": [
+      {
+        "text": "You are in an empty room with four portals\n\n\n[[Blue->North Room]]\n[[Red->East Room]]\n[[Orange->South Room]]\n[[Yellow->West Room]]",
+        "links": [
+          {
+            "name": "Blue",
+            "link": "North Room",
+            "pid": "2"
+          },
+          {
+            "name": "Red",
+            "link": "East Room",
+            "pid": "3"
+          },
+          {
+            "name": "Orange",
+            "link": "South Room",
+            "pid": "4"
+          },
+          {
+            "name": "Yellow",
+            "link": "West Room",
+            "pid": "5"
+          }
+        ],
+        "name": "Start",
+        "pid": "1",
+        "position": {
+          "x": "405",
+          "y": "171.5"
+        }
+      },
+      {
+        "text": "This room is empty",
+        "name": "North Room",
+        "pid": "2",
+        "position": {
+          "x": "405",
+          "y": "321.5"
+        }
+      },
+      {
+        "text": "This room is empty",
+        "name": "East Room",
+        "pid": "3",
+        "position": {
+          "x": "255",
+          "y": "321.5"
+        }
+      },
+      {
+        "text": "This room is empty",
+        "name": "South Room",
+        "pid": "4",
+        "position": {
+          "x": "525",
+          "y": "321.5"
+        }
+      },
+      {
+        "text": "This room is empty",
+        "name": "West Room",
+        "pid": "5",
+        "position": {
+          "x": "645",
+          "y": "321.5"
+        }
+      }
+    ],
+    "name": "Portal",
+    "startnode": "1",
+    "creator": "Twine",
+    "creator-version": "2.3.9",
+    "ifid": "5328D53B-950F-4A67-A394-F9CAAAE5EC22"
+  }
